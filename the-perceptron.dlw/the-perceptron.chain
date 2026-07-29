@@ -1,0 +1,9 @@
+ROOT0-DLW-CHAIN-v1
+index : 1972
+slug  : the-perceptron
+seal  : d402ac243aecba4c5c7d1776d35d064166943397102c0efff4338602b546d638
+prev  : 2612d6181bc929209182ba2b554e371cc8f622248c261a6c969afefa3f51a363
+link  : d84af8b13d982958007e487822a5db6b362a3716d577d01431bb50cea4aa695e
+head  : ed18c7776f0df6e24361405d19ce28e198f159bd9735cd5a71fbaed8e7895142
+
+— the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
